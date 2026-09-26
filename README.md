@@ -1,5 +1,7 @@
 # Dungeon Breakers
 
+![gameplay](docs/gameplay.gif)
+
 libGDX(Java)로 만든 2D 로그라이크 던전 액션 게임입니다.
 분기형 맵에서 경로를 선택하며 전투·상점·보상·휴식 노드를 거쳐 보스를 공략합니다.
 
