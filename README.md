@@ -11,10 +11,10 @@ libGDX(Java)로 만든 2D 로그라이크 던전 액션 게임입니다.
 
 ## 실행
 
-Java 17 이상 필요
+Windows x64 · Java 17 이상 필요
 
 ```bash
-java -jar DungeonBreakers-1.0.0.jar
+java -jar DungeonBreakers-1.0.0-win64.jar
 ```
 
 ## 주요 기능
